@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Identificar_Clube" value="name:Id_Clube;datatype:int" />
+	<infoitem key="UD_Informacoes_Clube" value="name:Id_Clube;datatype:int,name:Id_Estadio;datatype:int,name:Nome;datatype:string,name:Sigla;datatype:string,name:Simbolo;datatype:string,name:Nacionalidade;datatype:string,name:Localizacao;datatype:string,name:NSocios;datatype:int,name:Ano_da_Fundacao;datatype:int,name:Presidente;datatype:string" />
+	<infoitem key="UD_JogosAnteriores" value="name:Id_Clube_Visitado;datatype:int,name:Id_Clube_Visitante;datatype:int,name:Id_Jogo;datatype:int,name:Id_Estadio;datatype:int,name:Nome_Equipa_Visitada;datatype:string,name:Nome_Equipa_Visitante;datatype:string,name:Data;datatype:date,name:Hora;datatype:time,name:Realizado;datatype:int,name:Resultado_intervalo;datatype:string,name:Resultado_final;datatype:string,name:Nr_Golos_Equipa_Visitada_Intervalo;datatype:int,name:Nr_Golos_Equipa_Visitante_Intervalo;datatype:int,name:Nr_Golos_Equipa_Visitada_Final;datatype:int,name:Nr_Golos_Equipa_Visitante_Final;datatype:int,name:Tempo_jogo_1_Parte;datatype:real,name:Tempo_jogo_2_Parte;datatype:real,name:Tempo_jogo_Total;datatype:real,name:Tactica_da_Equipa_Visitada;datatype:string,name:Tactica_da_Equipa_Visitante;datatype:string" />
+</info>

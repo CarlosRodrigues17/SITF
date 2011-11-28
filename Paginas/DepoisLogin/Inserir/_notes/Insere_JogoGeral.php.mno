@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Identificar_Clube" value="name:Id_Clube;datatype:int" />
+	<infoitem key="UD_Informacoes_Clube" value="name:Id_Clube;datatype:int,name:Id_Estadio;datatype:int,name:Nome;datatype:string,name:Sigla;datatype:string,name:Simbolo;datatype:string,name:Nacionalidade;datatype:string,name:Localizacao;datatype:string,name:NSocios;datatype:int,name:Ano_da_Fundacao;datatype:int,name:Presidente;datatype:string" />
+	<infoitem key="UD_Estadio" value="name:Id_Estadio;datatype:int,name:Nome;datatype:string,name:Lotacao;datatype:int,name:Localizacao;datatype:string" />
+	<infoitem key="UD_Clube" value="name:Id_Clube;datatype:int,name:Id_Estadio;datatype:int,name:Nome;datatype:string,name:Sigla;datatype:string,name:Simbolo;datatype:string,name:Nacionalidade;datatype:string,name:Localizacao;datatype:string,name:NSocios;datatype:int,name:Ano_da_Fundacao;datatype:int,name:Presidente;datatype:string" />
+	<infoitem key="UD_Ultimo_Id_jogo" value="name:MAX(Id_Jogo);datatype:int" />
+	<infoitem key="UD_NomeVisitado" value="name:Nome;datatype:string" />
+	<infoitem key="UD_NomeVisitante" value="name:Nome;datatype:string" />
+</info>

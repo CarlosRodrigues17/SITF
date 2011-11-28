@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Identificar_Clube" value="name:Id_Clube;datatype:int" />
+	<infoitem key="UD_Informacoes_Clube" value="name:Id_Clube;datatype:int,name:Id_Estadio;datatype:int,name:Nome;datatype:string,name:Sigla;datatype:string,name:Simbolo;datatype:string,name:Nacionalidade;datatype:string,name:Localizacao;datatype:string,name:Nº_Socios;datatype:int,name:Ano_da_Fundacao;datatype:datetime,name:Presidente;datatype:string" />
+</info>
